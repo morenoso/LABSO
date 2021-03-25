@@ -1,0 +1,312 @@
+#### Comparacao entre os arquivos file1.txt e file2.txt ####
+$ DIFF:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Susp	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Susp
+euismod tellus, a cursus orci. Sed at massa sed mi		euismod tellus, a cursus orci. Sed at massa sed mi
+venenatis tempus. Etiam facilisis vestibulum nisi, nec portti	venenatis tempus. Etiam facilisis vestibulum nisi, nec portti
+sit amet. Nulla non sem tempus, pulvinar orci in, rutrum	sit amet. Nulla non sem tempus, pulvinar orci in, rutrum
+ante. Sed porttitor augue nibh, sed luctus ante ornare at.	ante. Sed porttitor augue nibh, sed luctus ante ornare at.
+Mauris sit amet laoreet tellus, et mollis nisi. Nullam velit	Mauris sit amet laoreet tellus, et mollis nisi. Nullam velit
+erat, fringilla ac tempus a, convallis auctor magna. Sed in	erat, fringilla ac tempus a, convallis auctor magna. Sed in
+metus felis. Mauris sit amet nisl eleifend, iaculis purus vit	metus felis. Mauris sit amet nisl eleifend, iaculis purus vit
+vehicula mauris. Nunc vel feugiat orci. Etiam consequat orci 	vehicula mauris. Nunc vel feugiat orci. Etiam consequat orci 
+eros a congue pellentesque. Maecenas imperdiet lacus dolor, s <
+eu tempus turpis commodo in. Aliquam erat volutpat. Phasellus	eu tempus turpis commodo in. Aliquam erat volutpat. Phasellus
+							      >	eros a congue pellentesque. Maecenas imperdiet lacus dolor, s
+tellus pellentesque a. Proin faucibus a nibh id venenatis. Do	tellus pellentesque a. Proin faucibus a nibh id venenatis. Do
+in imperdiet nibh. Ut imperdiet suscipit erat. Vestibulum ant	in imperdiet nibh. Ut imperdiet suscipit erat. Vestibulum ant
+primis in faucibus orci luctus et ultrices posuere cubilia cu	primis in faucibus orci luctus et ultrices posuere cubilia cu
+Aenean posuere neque nec sem aliquet, a vulputate ante varius	Aenean posuere neque nec sem aliquet, a vulputate ante varius
+Quisque at enim ac nunc vehicula convallis. Vivamus eleifend 	Quisque at enim ac nunc vehicula convallis. Vivamus eleifend 
+tellus non vestibulum. Ut euismod interdum lacus at pretium. 	tellus non vestibulum. Ut euismod interdum lacus at pretium. 
+lobortis ultrices fermentum. Class aptent taciti sociosqu ad 	lobortis ultrices fermentum. Class aptent taciti sociosqu ad 
+per conubia nostra, per inceptos himenaeos. Vivamus iaculis, 	per conubia nostra, per inceptos himenaeos. Vivamus iaculis, 
+luctus interdum, elit mi dictum leo, a ullamcorper sapien fel	luctus interdum, elit mi dictum leo, a ullamcorper sapien fel
+lacinia nisi. Etiam faucibus lacus quis varius mollis. Vestib	lacinia nisi. Etiam faucibus lacus quis varius mollis. Vestib
+dolor eget ipsum semper, vitae malesuada ipsum scelerisque. L	dolor eget ipsum semper, vitae malesuada ipsum scelerisque. L
+dolor sit amet, consectetur adipiscing elit. Etiam ullamcorpe	dolor sit amet, consectetur adipiscing elit. Etiam ullamcorpe
+Mauris convallis blandit tincidunt. Duis gravida justo sit am	Mauris convallis blandit tincidunt. Duis gravida justo sit am
+faucibus hendrerit. Curabitur cursus scelerisque elementum. C	faucibus hendrerit. Curabitur cursus scelerisque elementum. C
+Quisque fringilla erat eget est iaculis, ac porta nisi feugia	Quisque fringilla erat eget est iaculis, ac porta nisi feugia
+Curabitur nec pulvinar nunc. Etiam ultrices mattis aliquam. P	Curabitur nec pulvinar nunc. Etiam ultrices mattis aliquam. P
+eleifend ullamcorper. Praesent nec tortor mauris. Pellentesqu	eleifend ullamcorper. Praesent nec tortor mauris. Pellentesqu
+senectus et netus et malesuada fames ac turpis egestas. Pelle	senectus et netus et malesuada fames ac turpis egestas. Pelle
+at interdum leo, quis imperdiet arcu. Integer sagittis sodale	at interdum leo, quis imperdiet arcu. Integer sagittis sodale
+a semper nulla porttitor in. Nunc id erat facilisis, tempor	a semper nulla porttitor in. Nunc id erat facilisis, tempor
+urna in, volutpat nibh. Cras non quam commodo, imperdiet quam	urna in, volutpat nibh. Cras non quam commodo, imperdiet quam
+at, malesuada magna. Vivamus porttitor pretium quam, nec orna	at, malesuada magna. Vivamus porttitor pretium quam, nec orna
+sagittis vulputate. Maecenas dui tellus, volutpat finibus fer	sagittis vulputate. Maecenas dui tellus, volutpat finibus fer
+in nisl. Sed nibh lorem, elementum a elementum at, pulvinar	in nisl. Sed nibh lorem, elementum a elementum at, pulvinar
+sed tellus. Fusce et gravida eros. Sed maximus cursus orci,	sed tellus. Fusce et gravida eros. Sed maximus cursus orci,
+eu lacinia lectus ullamcorper euismod. Ut scelerisque enim ac	eu lacinia lectus ullamcorper euismod. Ut scelerisque enim ac
+sodales pretium. Aliquam at urna sapien. Curabitur mollis ips	sodales pretium. Aliquam at urna sapien. Curabitur mollis ips
+in dignissim nulla imperdiet consequat. Orci varius natoque p	in dignissim nulla imperdiet consequat. Orci varius natoque p
+magnis dis parturient montes, nascetur ridiculus mus. Nulla i	magnis dis parturient montes, nascetur ridiculus mus. Nulla i
+magna, sed scelerisque magna consectetur eget. Aliquam id odi	magna, sed scelerisque magna consectetur eget. Aliquam id odi
+blandit eros ut, condimentum orci. Sed finibus imperdiet metu	blandit eros ut, condimentum orci. Sed finibus imperdiet metu
+auctor. Quisque aliquet commodo neque, eu ultrices neque dict	auctor. Quisque aliquet commodo neque, eu ultrices neque dict
+Vivamus blandit odio sit amet tincidunt efficitur. Phasellus 	Vivamus blandit odio sit amet tincidunt efficitur. Phasellus 
+lectus, a dictum leo aliquam vel. Integer blandit vel arcu	lectus, a dictum leo aliquam vel. Integer blandit vel arcu
+id elementum. Aliquam feugiat velit vitae velit auctor vulput	id elementum. Aliquam feugiat velit vitae velit auctor vulput
+vestibulum dictum purus, nec efficitur ante tincidunt eget. M	vestibulum dictum purus, nec efficitur ante tincidunt eget. M
+dui, euismod id risus nec, porta lobortis ex. Vestibulum effi	dui, euismod id risus nec, porta lobortis ex. Vestibulum effi
+rhoncus urna vitae fermentum. Nulla in sapien vitae odio vene	rhoncus urna vitae fermentum. Nulla in sapien vitae odio vene
+hendrerit a vitae magna. Nunc rutrum vitae magna in aliquet.	hendrerit a vitae magna. Nunc rutrum vitae magna in aliquet.
+Proin ligula odio, accumsan quis nulla nec, dignissim bibendu	Proin ligula odio, accumsan quis nulla nec, dignissim bibendu
+Fusce pretium tellus non eros dapibus bibendum. Vestibulum an	Fusce pretium tellus non eros dapibus bibendum. Vestibulum an
+primis in faucibus orci luctus et ultrices posuere cubilia cu	primis in faucibus orci luctus et ultrices posuere cubilia cu
+Sed ut vehicula elit, vel suscipit enim. Vivamus dignissim bl	Sed ut vehicula elit, vel suscipit enim. Vivamus dignissim bl
+dolor. Quisque non eleifend libero. Vestibulum pretium odio s	dolor. Quisque non eleifend libero. Vestibulum pretium odio s
+maximus commodo. Aliquam eu neque at nisl semper ullamcorper.	maximus commodo. Aliquam eu neque at nisl semper ullamcorper.
+cursus ornare dolor, quis ornare libero tincidunt quis. Integ	cursus ornare dolor, quis ornare libero tincidunt quis. Integ
+neque quis ante laoreet rhoncus. Phasellus erat sapien, moles	neque quis ante laoreet rhoncus. Phasellus erat sapien, moles
+dignissim eu, pellentesque a orci. Proin laoreet, purus nec v	dignissim eu, pellentesque a orci. Proin laoreet, purus nec v
+tristique, quam erat accumsan eros, eget hendrerit purus just	tristique, quam erat accumsan eros, eget hendrerit purus just
+ante. Orci varius natoque penatibus et magnis dis parturient 	ante. Orci varius natoque penatibus et magnis dis parturient 
+nascetur ridiculus mus. Praesent volutpat leo vel convallis c	nascetur ridiculus mus. Praesent volutpat leo vel convallis c
+potenti. Aliquam quis massa accumsan, iaculis leo at, pharetr	potenti. Aliquam quis massa accumsan, iaculis leo at, pharetr
+In nunc ex, viverra non risus sit amet, blandit malesuada	In nunc ex, viverra non risus sit amet, blandit malesuada
+nisi. Nullam posuere dapibus facilisis. Cras bibendum est eni	nisi. Nullam posuere dapibus facilisis. Cras bibendum est eni
+consectetur lorem rutrum sed. Sed velit lacus, mattis nec imp	consectetur lorem rutrum sed. Sed velit lacus, mattis nec imp
+a, vulputate sit amet turpis. Mauris a orci enim. Vivamus	a, vulputate sit amet turpis. Mauris a orci enim. Vivamus
+id mi urna. Mauris ornare sollicitudin tempor. Vivamus non te	id mi urna. Mauris ornare sollicitudin tempor. Vivamus non te
+ac enim interdum eleifend. Phasellus congue, ligula quis soda	ac enim interdum eleifend. Phasellus congue, ligula quis soda
+ipsum ligula dapibus odio, ac mollis magna lacus non purus.	ipsum ligula dapibus odio, ac mollis magna lacus non purus.
+Curabitur justo velit, mattis eget lectus quis, elementum ult	Curabitur justo velit, mattis eget lectus quis, elementum ult
+Sed at lacus ut eros imperdiet interdum non et arcu.		Sed at lacus ut eros imperdiet interdum non et arcu.
+Aliquam interdum, urna ut tincidunt pellentesque, sem dolor v	Aliquam interdum, urna ut tincidunt pellentesque, sem dolor v
+et sagittis urna nibh vel ipsum. Mauris hendrerit velit dolor	et sagittis urna nibh vel ipsum. Mauris hendrerit velit dolor
+quis vulputate felis scelerisque luctus. Orci varius natoque 	quis vulputate felis scelerisque luctus. Orci varius natoque 
+magnis dis parturient montes, nascetur ridiculus mus. Interdu	magnis dis parturient montes, nascetur ridiculus mus. Interdu
+fames ac ante ipsum primis in faucibus. Duis a leo		fames ac ante ipsum primis in faucibus. Duis a leo
+nisi. Ut ac mollis neque, blandit malesuada sapien. Curabitur	nisi. Ut ac mollis neque, blandit malesuada sapien. Curabitur
+metus vitae ligula euismod ultricies a eget erat. Suspendisse	metus vitae ligula euismod ultricies a eget erat. Suspendisse
+mattis sapien. Pellentesque ut quam id lacus euismod sodales.	mattis sapien. Pellentesque ut quam id lacus euismod sodales.
+mollis egestas vestibulum. Nullam ut enim ipsum. Curabitur ar	mollis egestas vestibulum. Nullam ut enim ipsum. Curabitur ar
+varius at lobortis a, sagittis ut dui. Nunc magna nisi,		varius at lobortis a, sagittis ut dui. Nunc magna nisi,
+tempor ac cursus eu, eleifend vel augue. In hac habitasse	tempor ac cursus eu, eleifend vel augue. In hac habitasse
+platea dictumst. Maecenas at ligula in dui auctor consequat. 	platea dictumst. Maecenas at ligula in dui auctor consequat. 
+efficitur, neque sit amet ullamcorper feugiat, nulla massa ma	efficitur, neque sit amet ullamcorper feugiat, nulla massa ma
+quis scelerisque massa eros non nisl. Donec aliquam lacinia n	quis scelerisque massa eros non nisl. Donec aliquam lacinia n
+sed pellentesque mi tempor sit amet. Donec neque erat, rutrum	sed pellentesque mi tempor sit amet. Donec neque erat, rutrum
+a magna cursus, aliquet fermentum urna. Vestibulum vulputate 	a magna cursus, aliquet fermentum urna. Vestibulum vulputate 
+a aliquam. Sed nibh enim, iaculis vitae dignissim ut, sollici	a aliquam. Sed nibh enim, iaculis vitae dignissim ut, sollici
+at arcu. Proin id vehicula magna, fringilla lectus ac, congue |	at arcu. Proin id magna vehicula, fringilla lectus ac, congue
+eros. Nunc placerat ac tortor eu ultrices. Sed vulputate, sap	eros. Nunc placerat ac tortor eu ultrices. Sed vulputate, sap
+in cursus fringilla, nibh lorem commodo dui, non tempor ex	in cursus fringilla, nibh lorem commodo dui, non tempor ex
+dolor quis dui. Maecenas sed dolor nisi. Duis ornare imperdie	dolor quis dui. Maecenas sed dolor nisi. Duis ornare imperdie
+turpis, interdum ornare diam dictum in. Suspendisse accumsan 	turpis, interdum ornare diam dictum in. Suspendisse accumsan 
+eros aliquam viverra. Sed id justo convallis mi egestas hendr	eros aliquam viverra. Sed id justo convallis mi egestas hendr
+Suspendisse magna dolor, hendrerit sodales leo id, faucibus v	Suspendisse magna dolor, hendrerit sodales leo id, faucibus v
+Cras malesuada egestas diam, vel rhoncus purus auctor ut. Don	Cras malesuada egestas diam, vel rhoncus purus auctor ut. Don
+malesuada eleifend lacus ut efficitur. Sed luctus urna mollis	malesuada eleifend lacus ut efficitur. Sed luctus urna mollis
+mattis ultrices. Praesent vehicula lectus porta eleifend effi	mattis ultrices. Praesent vehicula lectus porta eleifend effi
+auctor orci elementum finibus.					auctor orci elementum finibus.
+
+#### Comparacao entre os arquivos file1.txt e file3.txt ####
+$ DIFF:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Susp	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Susp
+euismod tellus, a cursus orci. Sed at massa sed mi		euismod tellus, a cursus orci. Sed at massa sed mi
+venenatis tempus. Etiam facilisis vestibulum nisi, nec portti	venenatis tempus. Etiam facilisis vestibulum nisi, nec portti
+sit amet. Nulla non sem tempus, pulvinar orci in, rutrum	sit amet. Nulla non sem tempus, pulvinar orci in, rutrum
+ante. Sed porttitor augue nibh, sed luctus ante ornare at.	ante. Sed porttitor augue nibh, sed luctus ante ornare at.
+Mauris sit amet laoreet tellus, et mollis nisi. Nullam velit	Mauris sit amet laoreet tellus, et mollis nisi. Nullam velit
+erat, fringilla ac tempus a, convallis auctor magna. Sed in	erat, fringilla ac tempus a, convallis auctor magna. Sed in
+metus felis. Mauris sit amet nisl eleifend, iaculis purus vit	metus felis. Mauris sit amet nisl eleifend, iaculis purus vit
+vehicula mauris. Nunc vel feugiat orci. Etiam consequat orci 	vehicula mauris. Nunc vel feugiat orci. Etiam consequat orci 
+eros a congue pellentesque. Maecenas imperdiet lacus dolor, s <
+eu tempus turpis commodo in. Aliquam erat volutpat. Phasellus	eu tempus turpis commodo in. Aliquam erat volutpat. Phasellus
+							      >	eros a congue pellentesque. Maecenas imperdiet lacus dolor, s
+tellus pellentesque a. Proin faucibus a nibh id venenatis. Do	tellus pellentesque a. Proin faucibus a nibh id venenatis. Do
+in imperdiet nibh. Ut imperdiet suscipit erat. Vestibulum ant	in imperdiet nibh. Ut imperdiet suscipit erat. Vestibulum ant
+primis in faucibus orci luctus et ultrices posuere cubilia cu	primis in faucibus orci luctus et ultrices posuere cubilia cu
+Aenean posuere neque nec sem aliquet, a vulputate ante varius	Aenean posuere neque nec sem aliquet, a vulputate ante varius
+Quisque at enim ac nunc vehicula convallis. Vivamus eleifend 	Quisque at enim ac nunc vehicula convallis. Vivamus eleifend 
+tellus non vestibulum. Ut euismod interdum lacus at pretium. 	tellus non vestibulum. Ut euismod interdum lacus at pretium. 
+lobortis ultrices fermentum. Class aptent taciti sociosqu ad 	lobortis ultrices fermentum. Class aptent taciti sociosqu ad 
+per conubia nostra, per inceptos himenaeos. Vivamus iaculis, 	per conubia nostra, per inceptos himenaeos. Vivamus iaculis, 
+luctus interdum, elit mi dictum leo, a ullamcorper sapien fel	luctus interdum, elit mi dictum leo, a ullamcorper sapien fel
+lacinia nisi. Etiam faucibus lacus quis varius mollis. Vestib	lacinia nisi. Etiam faucibus lacus quis varius mollis. Vestib
+dolor eget ipsum semper, vitae malesuada ipsum scelerisque. L	dolor eget ipsum semper, vitae malesuada ipsum scelerisque. L
+dolor sit amet, consectetur adipiscing elit. Etiam ullamcorpe	dolor sit amet, consectetur adipiscing elit. Etiam ullamcorpe
+Mauris convallis blandit tincidunt. Duis gravida justo sit am	Mauris convallis blandit tincidunt. Duis gravida justo sit am
+faucibus hendrerit. Curabitur cursus scelerisque elementum. C	faucibus hendrerit. Curabitur cursus scelerisque elementum. C
+Quisque fringilla erat eget est iaculis, ac porta nisi feugia	Quisque fringilla erat eget est iaculis, ac porta nisi feugia
+Curabitur nec pulvinar nunc. Etiam ultrices mattis aliquam. P	Curabitur nec pulvinar nunc. Etiam ultrices mattis aliquam. P
+eleifend ullamcorper. Praesent nec tortor mauris. Pellentesqu	eleifend ullamcorper. Praesent nec tortor mauris. Pellentesqu
+senectus et netus et malesuada fames ac turpis egestas. Pelle	senectus et netus et malesuada fames ac turpis egestas. Pelle
+at interdum leo, quis imperdiet arcu. Integer sagittis sodale	at interdum leo, quis imperdiet arcu. Integer sagittis sodale
+a semper nulla porttitor in. Nunc id erat facilisis, tempor	a semper nulla porttitor in. Nunc id erat facilisis, tempor
+urna in, volutpat nibh. Cras non quam commodo, imperdiet quam	urna in, volutpat nibh. Cras non quam commodo, imperdiet quam
+at, malesuada magna. Vivamus porttitor pretium quam, nec orna	at, malesuada magna. Vivamus porttitor pretium quam, nec orna
+sagittis vulputate. Maecenas dui tellus, volutpat finibus fer	sagittis vulputate. Maecenas dui tellus, volutpat finibus fer
+in nisl. Sed nibh lorem, elementum a elementum at, pulvinar	in nisl. Sed nibh lorem, elementum a elementum at, pulvinar
+sed tellus. Fusce et gravida eros. Sed maximus cursus orci,	sed tellus. Fusce et gravida eros. Sed maximus cursus orci,
+eu lacinia lectus ullamcorper euismod. Ut scelerisque enim ac	eu lacinia lectus ullamcorper euismod. Ut scelerisque enim ac
+sodales pretium. Aliquam at urna sapien. Curabitur mollis ips	sodales pretium. Aliquam at urna sapien. Curabitur mollis ips
+in dignissim nulla imperdiet consequat. Orci varius natoque p	in dignissim nulla imperdiet consequat. Orci varius natoque p
+magnis dis parturient montes, nascetur ridiculus mus. Nulla i	magnis dis parturient montes, nascetur ridiculus mus. Nulla i
+magna, sed scelerisque magna consectetur eget. Aliquam id odi	magna, sed scelerisque magna consectetur eget. Aliquam id odi
+blandit eros ut, condimentum orci. Sed finibus imperdiet metu	blandit eros ut, condimentum orci. Sed finibus imperdiet metu
+auctor. Quisque aliquet commodo neque, eu ultrices neque dict	auctor. Quisque aliquet commodo neque, eu ultrices neque dict
+Vivamus blandit odio sit amet tincidunt efficitur. Phasellus 	Vivamus blandit odio sit amet tincidunt efficitur. Phasellus 
+lectus, a dictum leo aliquam vel. Integer blandit vel arcu	lectus, a dictum leo aliquam vel. Integer blandit vel arcu
+id elementum. Aliquam feugiat velit vitae velit auctor vulput	id elementum. Aliquam feugiat velit vitae velit auctor vulput
+vestibulum dictum purus, nec efficitur ante tincidunt eget. M	vestibulum dictum purus, nec efficitur ante tincidunt eget. M
+dui, euismod id risus nec, porta lobortis ex. Vestibulum effi	dui, euismod id risus nec, porta lobortis ex. Vestibulum effi
+rhoncus urna vitae fermentum. Nulla in sapien vitae odio vene	rhoncus urna vitae fermentum. Nulla in sapien vitae odio vene
+hendrerit a vitae magna. Nunc rutrum vitae magna in aliquet.	hendrerit a vitae magna. Nunc rutrum vitae magna in aliquet.
+Proin ligula odio, accumsan quis nulla nec, dignissim bibendu	Proin ligula odio, accumsan quis nulla nec, dignissim bibendu
+Fusce pretium tellus non eros dapibus bibendum. Vestibulum an	Fusce pretium tellus non eros dapibus bibendum. Vestibulum an
+primis in faucibus orci luctus et ultrices posuere cubilia cu	primis in faucibus orci luctus et ultrices posuere cubilia cu
+Sed ut vehicula elit, vel suscipit enim. Vivamus dignissim bl	Sed ut vehicula elit, vel suscipit enim. Vivamus dignissim bl
+dolor. Quisque non eleifend libero. Vestibulum pretium odio s	dolor. Quisque non eleifend libero. Vestibulum pretium odio s
+maximus commodo. Aliquam eu neque at nisl semper ullamcorper.	maximus commodo. Aliquam eu neque at nisl semper ullamcorper.
+cursus ornare dolor, quis ornare libero tincidunt quis. Integ	cursus ornare dolor, quis ornare libero tincidunt quis. Integ
+neque quis ante laoreet rhoncus. Phasellus erat sapien, moles	neque quis ante laoreet rhoncus. Phasellus erat sapien, moles
+dignissim eu, pellentesque a orci. Proin laoreet, purus nec v	dignissim eu, pellentesque a orci. Proin laoreet, purus nec v
+tristique, quam erat accumsan eros, eget hendrerit purus just	tristique, quam erat accumsan eros, eget hendrerit purus just
+ante. Orci varius natoque penatibus et magnis dis parturient 	ante. Orci varius natoque penatibus et magnis dis parturient 
+nascetur ridiculus mus. Praesent volutpat leo vel convallis c	nascetur ridiculus mus. Praesent volutpat leo vel convallis c
+potenti. Aliquam quis massa accumsan, iaculis leo at, pharetr	potenti. Aliquam quis massa accumsan, iaculis leo at, pharetr
+In nunc ex, viverra non risus sit amet, blandit malesuada	In nunc ex, viverra non risus sit amet, blandit malesuada
+nisi. Nullam posuere dapibus facilisis. Cras bibendum est eni	nisi. Nullam posuere dapibus facilisis. Cras bibendum est eni
+consectetur lorem rutrum sed. Sed velit lacus, mattis nec imp	consectetur lorem rutrum sed. Sed velit lacus, mattis nec imp
+a, vulputate sit amet turpis. Mauris a orci enim. Vivamus	a, vulputate sit amet turpis. Mauris a orci enim. Vivamus
+id mi urna. Mauris ornare sollicitudin tempor. Vivamus non te	id mi urna. Mauris ornare sollicitudin tempor. Vivamus non te
+ac enim interdum eleifend. Phasellus congue, ligula quis soda	ac enim interdum eleifend. Phasellus congue, ligula quis soda
+ipsum ligula dapibus odio, ac mollis magna lacus non purus.	ipsum ligula dapibus odio, ac mollis magna lacus non purus.
+Curabitur justo velit, mattis eget lectus quis, elementum ult	Curabitur justo velit, mattis eget lectus quis, elementum ult
+Sed at lacus ut eros imperdiet interdum non et arcu.		Sed at lacus ut eros imperdiet interdum non et arcu.
+Aliquam interdum, urna ut tincidunt pellentesque, sem dolor v	Aliquam interdum, urna ut tincidunt pellentesque, sem dolor v
+et sagittis urna nibh vel ipsum. Mauris hendrerit velit dolor	et sagittis urna nibh vel ipsum. Mauris hendrerit velit dolor
+quis vulputate felis scelerisque luctus. Orci varius natoque 	quis vulputate felis scelerisque luctus. Orci varius natoque 
+magnis dis parturient montes, nascetur ridiculus mus. Interdu	magnis dis parturient montes, nascetur ridiculus mus. Interdu
+fames ac ante ipsum primis in faucibus. Duis a leo		fames ac ante ipsum primis in faucibus. Duis a leo
+nisi. Ut ac mollis neque, blandit malesuada sapien. Curabitur	nisi. Ut ac mollis neque, blandit malesuada sapien. Curabitur
+metus vitae ligula euismod ultricies a eget erat. Suspendisse	metus vitae ligula euismod ultricies a eget erat. Suspendisse
+mattis sapien. Pellentesque ut quam id lacus euismod sodales.	mattis sapien. Pellentesque ut quam id lacus euismod sodales.
+mollis egestas vestibulum. Nullam ut enim ipsum. Curabitur ar	mollis egestas vestibulum. Nullam ut enim ipsum. Curabitur ar
+varius at lobortis a, sagittis ut dui. Nunc magna nisi,		varius at lobortis a, sagittis ut dui. Nunc magna nisi,
+tempor ac cursus eu, eleifend vel augue. In hac habitasse	tempor ac cursus eu, eleifend vel augue. In hac habitasse
+platea dictumst. Maecenas at ligula in dui auctor consequat. 	platea dictumst. Maecenas at ligula in dui auctor consequat. 
+efficitur, neque sit amet ullamcorper feugiat, nulla massa ma	efficitur, neque sit amet ullamcorper feugiat, nulla massa ma
+quis scelerisque massa eros non nisl. Donec aliquam lacinia n	quis scelerisque massa eros non nisl. Donec aliquam lacinia n
+sed pellentesque mi tempor sit amet. Donec neque erat, rutrum	sed pellentesque mi tempor sit amet. Donec neque erat, rutrum
+a magna cursus, aliquet fermentum urna. Vestibulum vulputate 	a magna cursus, aliquet fermentum urna. Vestibulum vulputate 
+a aliquam. Sed nibh enim, iaculis vitae dignissim ut, sollici	a aliquam. Sed nibh enim, iaculis vitae dignissim ut, sollici
+at arcu. Proin id vehicula magna, fringilla lectus ac, congue |	at arcu. Proin id magna vehicula, fringilla lectus ac, congue
+eros. Nunc placerat ac tortor eu ultrices. Sed vulputate, sap	eros. Nunc placerat ac tortor eu ultrices. Sed vulputate, sap
+in cursus fringilla, nibh lorem commodo dui, non tempor ex	in cursus fringilla, nibh lorem commodo dui, non tempor ex
+dolor quis dui. Maecenas sed dolor nisi. Duis ornare imperdie	dolor quis dui. Maecenas sed dolor nisi. Duis ornare imperdie
+turpis, interdum ornare diam dictum in. Suspendisse accumsan 	turpis, interdum ornare diam dictum in. Suspendisse accumsan 
+eros aliquam viverra. Sed id justo convallis mi egestas hendr	eros aliquam viverra. Sed id justo convallis mi egestas hendr
+Suspendisse magna dolor, hendrerit sodales leo id, faucibus v	Suspendisse magna dolor, hendrerit sodales leo id, faucibus v
+Cras malesuada egestas diam, vel rhoncus purus auctor ut. Don	Cras malesuada egestas diam, vel rhoncus purus auctor ut. Don
+malesuada eleifend lacus ut efficitur. Sed luctus urna mollis	malesuada eleifend lacus ut efficitur. Sed luctus urna mollis
+mattis ultrices. Praesent vehicula lectus porta eleifend effi	mattis ultrices. Praesent vehicula lectus porta eleifend effi
+auctor orci elementum finibus.					auctor orci elementum finibus.
+
+#### Comparacao entre os arquivos file2.txt e file3.txt ####
+$ DIFF:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Susp	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Susp
+euismod tellus, a cursus orci. Sed at massa sed mi		euismod tellus, a cursus orci. Sed at massa sed mi
+venenatis tempus. Etiam facilisis vestibulum nisi, nec portti	venenatis tempus. Etiam facilisis vestibulum nisi, nec portti
+sit amet. Nulla non sem tempus, pulvinar orci in, rutrum	sit amet. Nulla non sem tempus, pulvinar orci in, rutrum
+ante. Sed porttitor augue nibh, sed luctus ante ornare at.	ante. Sed porttitor augue nibh, sed luctus ante ornare at.
+Mauris sit amet laoreet tellus, et mollis nisi. Nullam velit	Mauris sit amet laoreet tellus, et mollis nisi. Nullam velit
+erat, fringilla ac tempus a, convallis auctor magna. Sed in	erat, fringilla ac tempus a, convallis auctor magna. Sed in
+metus felis. Mauris sit amet nisl eleifend, iaculis purus vit	metus felis. Mauris sit amet nisl eleifend, iaculis purus vit
+vehicula mauris. Nunc vel feugiat orci. Etiam consequat orci 	vehicula mauris. Nunc vel feugiat orci. Etiam consequat orci 
+eu tempus turpis commodo in. Aliquam erat volutpat. Phasellus	eu tempus turpis commodo in. Aliquam erat volutpat. Phasellus
+eros a congue pellentesque. Maecenas imperdiet lacus dolor, s	eros a congue pellentesque. Maecenas imperdiet lacus dolor, s
+tellus pellentesque a. Proin faucibus a nibh id venenatis. Do	tellus pellentesque a. Proin faucibus a nibh id venenatis. Do
+in imperdiet nibh. Ut imperdiet suscipit erat. Vestibulum ant	in imperdiet nibh. Ut imperdiet suscipit erat. Vestibulum ant
+primis in faucibus orci luctus et ultrices posuere cubilia cu	primis in faucibus orci luctus et ultrices posuere cubilia cu
+Aenean posuere neque nec sem aliquet, a vulputate ante varius	Aenean posuere neque nec sem aliquet, a vulputate ante varius
+Quisque at enim ac nunc vehicula convallis. Vivamus eleifend 	Quisque at enim ac nunc vehicula convallis. Vivamus eleifend 
+tellus non vestibulum. Ut euismod interdum lacus at pretium. 	tellus non vestibulum. Ut euismod interdum lacus at pretium. 
+lobortis ultrices fermentum. Class aptent taciti sociosqu ad 	lobortis ultrices fermentum. Class aptent taciti sociosqu ad 
+per conubia nostra, per inceptos himenaeos. Vivamus iaculis, 	per conubia nostra, per inceptos himenaeos. Vivamus iaculis, 
+luctus interdum, elit mi dictum leo, a ullamcorper sapien fel	luctus interdum, elit mi dictum leo, a ullamcorper sapien fel
+lacinia nisi. Etiam faucibus lacus quis varius mollis. Vestib	lacinia nisi. Etiam faucibus lacus quis varius mollis. Vestib
+dolor eget ipsum semper, vitae malesuada ipsum scelerisque. L	dolor eget ipsum semper, vitae malesuada ipsum scelerisque. L
+dolor sit amet, consectetur adipiscing elit. Etiam ullamcorpe	dolor sit amet, consectetur adipiscing elit. Etiam ullamcorpe
+Mauris convallis blandit tincidunt. Duis gravida justo sit am	Mauris convallis blandit tincidunt. Duis gravida justo sit am
+faucibus hendrerit. Curabitur cursus scelerisque elementum. C	faucibus hendrerit. Curabitur cursus scelerisque elementum. C
+Quisque fringilla erat eget est iaculis, ac porta nisi feugia	Quisque fringilla erat eget est iaculis, ac porta nisi feugia
+Curabitur nec pulvinar nunc. Etiam ultrices mattis aliquam. P	Curabitur nec pulvinar nunc. Etiam ultrices mattis aliquam. P
+eleifend ullamcorper. Praesent nec tortor mauris. Pellentesqu	eleifend ullamcorper. Praesent nec tortor mauris. Pellentesqu
+senectus et netus et malesuada fames ac turpis egestas. Pelle	senectus et netus et malesuada fames ac turpis egestas. Pelle
+at interdum leo, quis imperdiet arcu. Integer sagittis sodale	at interdum leo, quis imperdiet arcu. Integer sagittis sodale
+a semper nulla porttitor in. Nunc id erat facilisis, tempor	a semper nulla porttitor in. Nunc id erat facilisis, tempor
+urna in, volutpat nibh. Cras non quam commodo, imperdiet quam	urna in, volutpat nibh. Cras non quam commodo, imperdiet quam
+at, malesuada magna. Vivamus porttitor pretium quam, nec orna	at, malesuada magna. Vivamus porttitor pretium quam, nec orna
+sagittis vulputate. Maecenas dui tellus, volutpat finibus fer	sagittis vulputate. Maecenas dui tellus, volutpat finibus fer
+in nisl. Sed nibh lorem, elementum a elementum at, pulvinar	in nisl. Sed nibh lorem, elementum a elementum at, pulvinar
+sed tellus. Fusce et gravida eros. Sed maximus cursus orci,	sed tellus. Fusce et gravida eros. Sed maximus cursus orci,
+eu lacinia lectus ullamcorper euismod. Ut scelerisque enim ac	eu lacinia lectus ullamcorper euismod. Ut scelerisque enim ac
+sodales pretium. Aliquam at urna sapien. Curabitur mollis ips	sodales pretium. Aliquam at urna sapien. Curabitur mollis ips
+in dignissim nulla imperdiet consequat. Orci varius natoque p	in dignissim nulla imperdiet consequat. Orci varius natoque p
+magnis dis parturient montes, nascetur ridiculus mus. Nulla i	magnis dis parturient montes, nascetur ridiculus mus. Nulla i
+magna, sed scelerisque magna consectetur eget. Aliquam id odi	magna, sed scelerisque magna consectetur eget. Aliquam id odi
+blandit eros ut, condimentum orci. Sed finibus imperdiet metu	blandit eros ut, condimentum orci. Sed finibus imperdiet metu
+auctor. Quisque aliquet commodo neque, eu ultrices neque dict	auctor. Quisque aliquet commodo neque, eu ultrices neque dict
+Vivamus blandit odio sit amet tincidunt efficitur. Phasellus 	Vivamus blandit odio sit amet tincidunt efficitur. Phasellus 
+lectus, a dictum leo aliquam vel. Integer blandit vel arcu	lectus, a dictum leo aliquam vel. Integer blandit vel arcu
+id elementum. Aliquam feugiat velit vitae velit auctor vulput	id elementum. Aliquam feugiat velit vitae velit auctor vulput
+vestibulum dictum purus, nec efficitur ante tincidunt eget. M	vestibulum dictum purus, nec efficitur ante tincidunt eget. M
+dui, euismod id risus nec, porta lobortis ex. Vestibulum effi	dui, euismod id risus nec, porta lobortis ex. Vestibulum effi
+rhoncus urna vitae fermentum. Nulla in sapien vitae odio vene	rhoncus urna vitae fermentum. Nulla in sapien vitae odio vene
+hendrerit a vitae magna. Nunc rutrum vitae magna in aliquet.	hendrerit a vitae magna. Nunc rutrum vitae magna in aliquet.
+Proin ligula odio, accumsan quis nulla nec, dignissim bibendu	Proin ligula odio, accumsan quis nulla nec, dignissim bibendu
+Fusce pretium tellus non eros dapibus bibendum. Vestibulum an	Fusce pretium tellus non eros dapibus bibendum. Vestibulum an
+primis in faucibus orci luctus et ultrices posuere cubilia cu	primis in faucibus orci luctus et ultrices posuere cubilia cu
+Sed ut vehicula elit, vel suscipit enim. Vivamus dignissim bl	Sed ut vehicula elit, vel suscipit enim. Vivamus dignissim bl
+dolor. Quisque non eleifend libero. Vestibulum pretium odio s	dolor. Quisque non eleifend libero. Vestibulum pretium odio s
+maximus commodo. Aliquam eu neque at nisl semper ullamcorper.	maximus commodo. Aliquam eu neque at nisl semper ullamcorper.
+cursus ornare dolor, quis ornare libero tincidunt quis. Integ	cursus ornare dolor, quis ornare libero tincidunt quis. Integ
+neque quis ante laoreet rhoncus. Phasellus erat sapien, moles	neque quis ante laoreet rhoncus. Phasellus erat sapien, moles
+dignissim eu, pellentesque a orci. Proin laoreet, purus nec v	dignissim eu, pellentesque a orci. Proin laoreet, purus nec v
+tristique, quam erat accumsan eros, eget hendrerit purus just	tristique, quam erat accumsan eros, eget hendrerit purus just
+ante. Orci varius natoque penatibus et magnis dis parturient 	ante. Orci varius natoque penatibus et magnis dis parturient 
+nascetur ridiculus mus. Praesent volutpat leo vel convallis c	nascetur ridiculus mus. Praesent volutpat leo vel convallis c
+potenti. Aliquam quis massa accumsan, iaculis leo at, pharetr	potenti. Aliquam quis massa accumsan, iaculis leo at, pharetr
+In nunc ex, viverra non risus sit amet, blandit malesuada	In nunc ex, viverra non risus sit amet, blandit malesuada
+nisi. Nullam posuere dapibus facilisis. Cras bibendum est eni	nisi. Nullam posuere dapibus facilisis. Cras bibendum est eni
+consectetur lorem rutrum sed. Sed velit lacus, mattis nec imp	consectetur lorem rutrum sed. Sed velit lacus, mattis nec imp
+a, vulputate sit amet turpis. Mauris a orci enim. Vivamus	a, vulputate sit amet turpis. Mauris a orci enim. Vivamus
+id mi urna. Mauris ornare sollicitudin tempor. Vivamus non te	id mi urna. Mauris ornare sollicitudin tempor. Vivamus non te
+ac enim interdum eleifend. Phasellus congue, ligula quis soda	ac enim interdum eleifend. Phasellus congue, ligula quis soda
+ipsum ligula dapibus odio, ac mollis magna lacus non purus.	ipsum ligula dapibus odio, ac mollis magna lacus non purus.
+Curabitur justo velit, mattis eget lectus quis, elementum ult	Curabitur justo velit, mattis eget lectus quis, elementum ult
+Sed at lacus ut eros imperdiet interdum non et arcu.		Sed at lacus ut eros imperdiet interdum non et arcu.
+Aliquam interdum, urna ut tincidunt pellentesque, sem dolor v	Aliquam interdum, urna ut tincidunt pellentesque, sem dolor v
+et sagittis urna nibh vel ipsum. Mauris hendrerit velit dolor	et sagittis urna nibh vel ipsum. Mauris hendrerit velit dolor
+quis vulputate felis scelerisque luctus. Orci varius natoque 	quis vulputate felis scelerisque luctus. Orci varius natoque 
+magnis dis parturient montes, nascetur ridiculus mus. Interdu	magnis dis parturient montes, nascetur ridiculus mus. Interdu
+fames ac ante ipsum primis in faucibus. Duis a leo		fames ac ante ipsum primis in faucibus. Duis a leo
+nisi. Ut ac mollis neque, blandit malesuada sapien. Curabitur	nisi. Ut ac mollis neque, blandit malesuada sapien. Curabitur
+metus vitae ligula euismod ultricies a eget erat. Suspendisse	metus vitae ligula euismod ultricies a eget erat. Suspendisse
+mattis sapien. Pellentesque ut quam id lacus euismod sodales.	mattis sapien. Pellentesque ut quam id lacus euismod sodales.
+mollis egestas vestibulum. Nullam ut enim ipsum. Curabitur ar	mollis egestas vestibulum. Nullam ut enim ipsum. Curabitur ar
+varius at lobortis a, sagittis ut dui. Nunc magna nisi,		varius at lobortis a, sagittis ut dui. Nunc magna nisi,
+tempor ac cursus eu, eleifend vel augue. In hac habitasse	tempor ac cursus eu, eleifend vel augue. In hac habitasse
+platea dictumst. Maecenas at ligula in dui auctor consequat. 	platea dictumst. Maecenas at ligula in dui auctor consequat. 
+efficitur, neque sit amet ullamcorper feugiat, nulla massa ma	efficitur, neque sit amet ullamcorper feugiat, nulla massa ma
+quis scelerisque massa eros non nisl. Donec aliquam lacinia n	quis scelerisque massa eros non nisl. Donec aliquam lacinia n
+sed pellentesque mi tempor sit amet. Donec neque erat, rutrum	sed pellentesque mi tempor sit amet. Donec neque erat, rutrum
+a magna cursus, aliquet fermentum urna. Vestibulum vulputate 	a magna cursus, aliquet fermentum urna. Vestibulum vulputate 
+a aliquam. Sed nibh enim, iaculis vitae dignissim ut, sollici	a aliquam. Sed nibh enim, iaculis vitae dignissim ut, sollici
+at arcu. Proin id magna vehicula, fringilla lectus ac, congue	at arcu. Proin id magna vehicula, fringilla lectus ac, congue
+eros. Nunc placerat ac tortor eu ultrices. Sed vulputate, sap	eros. Nunc placerat ac tortor eu ultrices. Sed vulputate, sap
+in cursus fringilla, nibh lorem commodo dui, non tempor ex	in cursus fringilla, nibh lorem commodo dui, non tempor ex
+dolor quis dui. Maecenas sed dolor nisi. Duis ornare imperdie	dolor quis dui. Maecenas sed dolor nisi. Duis ornare imperdie
+turpis, interdum ornare diam dictum in. Suspendisse accumsan 	turpis, interdum ornare diam dictum in. Suspendisse accumsan 
+eros aliquam viverra. Sed id justo convallis mi egestas hendr	eros aliquam viverra. Sed id justo convallis mi egestas hendr
+Suspendisse magna dolor, hendrerit sodales leo id, faucibus v	Suspendisse magna dolor, hendrerit sodales leo id, faucibus v
+Cras malesuada egestas diam, vel rhoncus purus auctor ut. Don	Cras malesuada egestas diam, vel rhoncus purus auctor ut. Don
+malesuada eleifend lacus ut efficitur. Sed luctus urna mollis	malesuada eleifend lacus ut efficitur. Sed luctus urna mollis
+mattis ultrices. Praesent vehicula lectus porta eleifend effi	mattis ultrices. Praesent vehicula lectus porta eleifend effi
+auctor orci elementum finibus.					auctor orci elementum finibus.
+Files file2.txt and file3.txt are identical
+
